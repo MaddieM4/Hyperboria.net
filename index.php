@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>hyperboria</title>
+    <title>Hyperboria.net</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <link href="bootstrap.css" rel="stylesheet">
