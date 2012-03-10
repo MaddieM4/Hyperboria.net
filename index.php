@@ -27,6 +27,8 @@
               <li><a href="http://static.thefinn93.com/cjdns/map/">Map</a></li>
                          </ul>
                <ul class="nav pull-right"> 
+              <li><a href="https://wiki.projectmeshnet.org/Getting_Started">Join the network</a></li>
+              <li><a href="http://[fc5d:baa5:61fc:6ffd:9554:67f0:e290:7535]/">Name your node</a></li>
         <li></li>
         </ul>       </div><!--/.nav-collapse -->
         </div>
