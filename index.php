@@ -22,7 +22,9 @@
           <a class="brand" href="#">Hyperboria</a>
           <div class="nav-collapse">
             <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
+              <li class="active"><a href="/">Home</a></li>
+              <li><a href="https://wiki.projectmeshnet.org/Known_Hyperboria_sites">Sites</a></li>
+              <li><a href="http://static.thefinn93.com/cjdns/map/">Map</a></li>
                          </ul>
                <ul class="nav pull-right"> 
         <li></li>
