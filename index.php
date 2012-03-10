@@ -44,7 +44,8 @@
 				</div>
                            <div class="hero-unit">
         <h1>a revolutionary concept</h1>
-        <p><b>Hyperboria</b> is the first and only CJDNS powered decentralized network.</p>
+        <p><b>Hyperboria</b> is the first and only <a href="http://cjdns.info/">CJDNS</a> 
+              powered decentralized network.</p>
         <p><a href="https://wiki.projectmeshnet.org/Hyperboria" class="btn primary large">Learn more &raquo;</a></p>
       </div>
 
